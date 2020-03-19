@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="coordinates">
+        <item>-34.0,151.0</item>
+        <item>-30.0,130.0</item>
+        <item>-30.0,155.0</item>
+        <item>-25.0,110.0</item>
+        <item>-20.0,100.0</item>
+        <item>-15.0,105.0</item>
+        <item>-10.0,115.0</item>
+    </string-array>
+</resources>

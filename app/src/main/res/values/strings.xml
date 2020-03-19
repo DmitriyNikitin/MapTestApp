@@ -1,0 +1,9 @@
+<resources>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDXsCqeFgE-jtxTiOQ4PKgRc_ZG8-1kaXg</string>
+    <string name="app_name">TestMapApp</string>
+    <string name="hint_enter_password">Введите пароль</string>
+    <string name="hint_enter_login">Введите логин</string>
+    <string name="password">Пароль</string>
+    <string name="login">Логин</string>
+    <string name="enter">Вход</string>
+</resources>
